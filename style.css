@@ -1,0 +1,150 @@
+.nav{
+    border: 1px solid;
+    padding: 10px 10px 10px 10px ;
+text-align: center;
+word-spacing: 1000px;
+
+
+}
+.canvas{
+
+   padding-left: 400px;
+   padding-right: 400px;
+   padding-bottom: 500px;
+   border: 1px solid;
+   padding-bottom: 300px;
+}
+
+
+#purple{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:rgb(219, 26, 219);
+    margin-right: 10px;
+    display: inline-block;
+}
+
+#orange{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:rgba(255, 115, 0, 0.938);
+    margin-right: 10px;
+    display: inline-block;
+
+}
+
+
+#green{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:green;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+
+#red{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:red;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+
+#pink{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:pink;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+
+#yellow{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:yellow;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+
+#grey{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:grey;
+    margin-right: 10px;
+    display: inline-block;
+
+
+}
+#black{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:black;
+    margin-right: 10px;
+    display: inline-block;
+
+}
+#blue{
+    border: 50px solid ;
+    height: 50%;
+    width: 20px;
+    color:blue;
+    margin-right: 10px;
+    display: inline-block;
+
+}
+
+h1{
+  padding-left: 50px;
+}
+
+#blue:hover{
+    cursor: pointer;
+}
+#grey:hover{
+    cursor: pointer;
+}
+#pink:hover{
+    cursor: pointer;
+}#orange:hover{
+    cursor: pointer;
+}#purple:hover{
+    cursor: pointer;
+}#black:hover{
+    cursor: pointer;
+}
+#yellow:hover{
+    cursor: pointer;
+}#red:hover{
+    cursor: pointer;
+}#green:hover{
+    cursor: pointer;
+}
+@media (max-width:600px) {
+
+    .nav{
+        width: 475px;
+        height: 100%;
+    }
+    .canvas{
+        padding-left: 40px;
+   padding-right: 40px;
+   padding-bottom: 50px;
+   border: 1px solid;
+   padding-bottom: 30px;
+
+    }
+
+   
+}
